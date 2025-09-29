@@ -14,7 +14,7 @@ label start:
 
     call whydidwemakethis
 
-    call scene002
+    call scene002_sora
 
     # Calls the end scene
     call end
