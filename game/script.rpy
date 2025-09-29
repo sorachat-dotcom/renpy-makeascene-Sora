@@ -7,6 +7,7 @@ label start:
 
     # Call all the other scenes in between
     call scene001
+    call scene_lucia
 
     # Calls the end scene
     call end
