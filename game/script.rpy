@@ -8,6 +8,10 @@ label start:
     # Call all the other scenes in between
     call scene001
 
+    call whydidwemakethis
+
+    call scene002
+
     # Calls the end scene
     call end
 
